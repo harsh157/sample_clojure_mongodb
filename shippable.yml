@@ -1,3 +1,5 @@
+build_image: drydock/u14clopls:tip
+
 # Language setting
 language: clojure
 
